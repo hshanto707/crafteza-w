@@ -1,5 +1,7 @@
 <template>
-  <div>
-    <p class="shadow-sm text-2xl">Hello</p>
+  <div class="max-w-screen-xl mx-auto">
+    <Header />
+    <NuxtPage />
+    <Footer />
   </div>
 </template>
