@@ -1,6 +1,6 @@
 <template>
   <div>
-    <p class="shadow-sm text-2xl">Body</p>
+    <PageHomeBanner2 />
   </div>
 </template>
 
