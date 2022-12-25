@@ -1,5 +1,6 @@
 <template>
   <div>
+    <PageHomeTestimonial />
     <PageHomeBanner2 />
   </div>
 </template>

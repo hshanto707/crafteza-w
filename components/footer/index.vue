@@ -64,7 +64,7 @@
     <!-- ------ LOWER FOOTER ------ -->
 
     <hr class="my-8 border-gray-500" />
-    <div class="md:flex justify-between text-center">
+    <div class="md:flex justify-between text-center mb-8">
       <p class="text-gray-500 mb-5 md:mb-0">
         &copy; 2022 - All Copyrights Reserved
       </p>
