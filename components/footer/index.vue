@@ -69,26 +69,10 @@
         &copy; 2022 - All Copyrights Reserved
       </p>
       <div class="flex gap-10">
-        <a
-          href="#"
-          class="inline-block text-gray-500 hover:text-orange-600 cursor-pointer transition duration-200 ease-in"
-          >About Us</a
-        >
-        <a
-          href="#"
-          class="inline-block text-gray-500 hover:text-orange-600 cursor-pointer transition duration-200 ease-in"
-          >Blog</a
-        >
-        <a
-          href="#"
-          class="inline-block text-gray-500 hover:text-orange-600 cursor-pointer transition duration-200 ease-in"
-          >FAQs</a
-        >
-        <a
-          href="#"
-          class="inline-block text-gray-500 hover:text-orange-600 cursor-pointer transition duration-200 ease-in"
-          >Contact</a
-        >
+        <a href="#" class="inline-block text-gray-500 hover:text-orange-600 cursor-pointer transition duration-200 ease-in">About Us</a>
+        <a href="#" class="inline-block text-gray-500 hover:text-orange-600 cursor-pointer transition duration-200 ease-in">Blog</a>
+        <a href="#" class="inline-block text-gray-500 hover:text-orange-600 cursor-pointer transition duration-200 ease-in">FAQs</a>
+        <a href="#" class="inline-block text-gray-500 hover:text-orange-600 cursor-pointer transition duration-200 ease-in">Contact</a>
       </div>
     </div>
   </div>
