@@ -1,5 +1,5 @@
 <template>
-  <div class="mt-4">
+  <div class="mt-4 mb-32">
     <div class="flex justify-between items-center">
       <div>
         <p class="logo text-4xl font-bold mb-3">Crafteza.</p>

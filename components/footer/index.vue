@@ -1,5 +1,5 @@
 <template>
-  <div class="mt-20 md:px-0 px-12">
+  <div class="mt-32 md:px-0 px-12">
     <!-- ------ UPPER FOOTER ------ -->
 
     <div class="md:flex justify-between">
