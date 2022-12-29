@@ -19,6 +19,6 @@
   background: url('@/assets/images/banner/banner5.jpg');
   background-repeat: no-repeat;
   background-size: 100%;
-  background-position: top -400px right 0px;
+  background-position: top -450px right 0px;
 }
 </style>

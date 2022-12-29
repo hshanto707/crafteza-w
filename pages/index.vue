@@ -1,5 +1,6 @@
 <template>
   <div class="flex flex-col gap-32">
+    <PageHomeServices />
     <PageHomeCategories />
     <PageHomeTestimonial />
     <PageHomeBanner2 />
