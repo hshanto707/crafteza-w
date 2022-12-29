@@ -16,7 +16,7 @@
 
 <style scoped>
 .banner {
-  background: url('@/assets/images/banner/banner5.jpg');
+  background: url('@/assets/images/banner/insta.jpg');
   background-repeat: no-repeat;
   background-size: 100%;
   background-position: top -470px right 0px;

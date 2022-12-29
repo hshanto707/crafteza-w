@@ -4,10 +4,18 @@
 
     <div class="md:flex justify-between">
       <div class="my-auto">
-        <p class="logo text-4xl font-bold mb-3">Crafteza.</p>
-        <p class="text-gray-500 mb-3">
-          400 University Drive Suite 200 Coral Gables, FL 33134 USA
-        </p>
+        <div>
+          <p class="logo text-4xl font-bold mb-3">Crafteza.</p>
+          <p class="text-gray-500 mb-5">
+            400 University Drive Suite 200 Coral Gables, FL 33134 USA
+          </p>
+        </div>
+        <div class="flex gap-3">
+          <a href="https://facebook.com" target="_blank"><img src="@/assets/icons/social/facebook.png" class="w-5" alt="" /></a>
+          <a href="https://instagram.com" target="_blank"><img src="@/assets/icons/social/instagram.png" class="w-5" alt="" /></a>
+          <a href="https://twitter.com" target="_blank"><img src="@/assets/icons/social/twitter.png" class="w-5" alt="" /></a>
+          <a href="https://youtube.com" target="_blank"><img src="@/assets/icons/social/youtube.png" class="w-5" alt="" /></a>
+        </div>
       </div>
       <div>
         <p class="twentieth font-bold mb-8">ABOUT</p>

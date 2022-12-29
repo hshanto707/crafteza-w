@@ -17,7 +17,7 @@
 
 <style scoped>
 .banner {
-  background: url('@/assets/images/banner/banner4.jpg');
+  background: url('@/assets/images/banner/banner.jpg');
   background-repeat: no-repeat;
   background-size: 100%;
   background-position: top -100px right 0px;
