@@ -2,8 +2,10 @@
   <div class="flex flex-col gap-32">
     <PageHomeServices />
     <PageHomeCategories />
+    <PageHomeBanner />
+    <PageHomeBestSellers />
     <PageHomeTestimonial />
-    <PageHomeBanner2 />
+    <PageHomeInsta />
   </div>
 </template>
 

@@ -11,7 +11,7 @@
         <p class="twentieth"><span class="font-bold text-gray-900">Jhon Michle</span> - CEO</p>
       </div>
       <div class="my-auto">
-        <img class="animate-bounce" src="@/assets/images/quote.png" alt="" />
+        <img class="animate-bounce" src="@/assets/icons/quote.png" alt="" />
       </div>
     </div>
   </div>
